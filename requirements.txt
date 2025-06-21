@@ -1,0 +1,6 @@
+Flask==2.2.2
+requests==2.28.1
+protobuf>=4.21.0
+jsonpath-ng==1.5.3
+gunicorn==20.1.0
+protod>=24.0.0 
